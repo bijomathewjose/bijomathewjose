@@ -4,7 +4,6 @@
 ## 🌱 I’m currently learning 
 ### ![](./html.png) | ![](./css.png) | ![](./js.png) | ![](./reactjs.png) | ![](./nodejs.png) | ![](./figma.png) 
 ## Contacts
-#### <bijomathewjose@gmail.com>
 [![](./linkedin.png)](https://www.linkedin.com/in/bijomathewjose/)       [![](./twitter.png)](https://twitter.com/bijomathewjose)   [![](./insta.png)](https://www.instagram.com/bijomathewjose/)        
 <!---
 bijomathewjose/bijomathewjose is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
