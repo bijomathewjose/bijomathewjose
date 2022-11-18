@@ -1,4 +1,5 @@
-# 👋 Hi, I’m @bijomathewjose
+# 👋 Hi, I’m Bijo Mathew Jose
+# Actively open for work
 ## 👀 I’m interested in 
 ### Web Development | Graphic design | Environment | Sustainable Development
 ## 🌱 I’m currently learning 
