@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Bijo Mathew Jose
 # Actively open for work
 ## 👀 I’m interested in 
-### Web Development | Graphic design | Environment | Sustainable Development
+### Web Development | Programming | Environment | Sustainable Development
 ## 🌱 I’m currently learning 
 ### ![](./html.png) | ![](./css.png) | ![](./js.png) | ![](./reactjs.png) | ![](./nodejs.png) | ![](./figma.png) | Python
 ## Contacts
