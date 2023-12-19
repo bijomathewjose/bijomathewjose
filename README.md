@@ -1,6 +1,4 @@
 # 👋 Hi, I’m Bijo Mathew Jose
-### Coding Hours Today
-[![wakatime](https://wakatime.com/badge/user/1ad46050-af49-4512-b353-2c8d9f1e0871.svg)](https://wakatime.com/@1ad46050-af49-4512-b353-2c8d9f1e0871)
  
 ![Bijo's most used languages](https://github-readme-stats.sabesansathananthan.vercel.app/api/top-langs/?username=bijomathewjose&layout=compact&theme=radical)
 ### CodeWars
