@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Bijo Mathew Jose
  
-A Software Engineer
+A Software Developer
 
 Specialized in Typescript/Javascript working with frameworks like React | React Native | NextJs
 
