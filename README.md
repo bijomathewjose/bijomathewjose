@@ -1,15 +1,16 @@
-# 👋 Hi, I’m Bijo Mathew Jose
- 
-A Software Developer
+# 👋 Hi, I'm Bijo Mathew Jose
 
-Specialized in Typescript/Javascript working with frameworks like React | React Native | NextJs
+I build software systems with a strong bias toward execution, simplicity, and real-world usefulness.
 
-I have played around with Python and it framework like Django,FastAPI 
+Primarily working in the TypeScript ecosystem, I develop across backend, mobile, and web — selecting tools pragmatically based on the problem space.
 
-Right now focused on learning and implementing advanced topics in React based application to provide efficiency and best performance for users and providers.  
- 
-![Bijo's most used languages](https://github-readme-stats.sabesansathananthan.vercel.app/api/top-langs/?username=bijomathewjose&layout=compact&theme=radical)
-<!---
-bijomathewjose/bijomathewjose is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+My approach emphasizes:
+
+• Shipping and iteration over prolonged design cycles  
+• Pragmatic architecture that supports growth  
+• High ownership in ambiguous problem spaces  
+• AI-assisted workflows to accelerate delivery  
+
+I stay hands-on technically while increasingly thinking in terms of systems, leverage, and long-term maintainability.
+
+Still learning and growing
