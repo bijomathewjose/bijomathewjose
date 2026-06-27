@@ -1,16 +1,17 @@
+---
+
 # 👋 Hi, I'm Bijo Mathew Jose
 
-I build software systems with a strong bias toward execution, simplicity, and real-world usefulness.
+Full-stack developer in the TypeScript ecosystem — I ship across **web, mobile, and backend** and pick the tool to fit the problem.
 
-Primarily working in the TypeScript ecosystem, I develop across backend, mobile, and web — selecting tools pragmatically based on the problem space.
+🔭 Currently building **CivStart**, a govtech platform (Next.js · NestJS · Prisma) — including LLM-powered document generation and the Clerk auth layer.
 
-My approach emphasizes:
+🛹 Shipped **Skate App**, a social skateboarding app on iOS/Android (React Native · Expo · NestJS).
 
-• Shipping and iteration over prolonged design cycles  
-• Pragmatic architecture that supports growth  
-• High ownership in ambiguous problem spaces  
-• AI-assisted workflows to accelerate delivery  
+🧪 Building **PassKit**, an AI exam-prep tool with retrieval over past papers and spaced repetition (Next.js · Supabase · OpenAI).
 
-I stay hands-on technically while increasingly thinking in terms of systems, leverage, and long-term maintainability.
+**Stack:** TypeScript · React · Next.js · React Native · NestJS · PostgreSQL · Prisma · Supabase
 
-Still learning and growing
+I work best on small teams in ambiguous problem spaces — scoping a feature, shipping it, and tightening it where it actually matters.
+
+---
